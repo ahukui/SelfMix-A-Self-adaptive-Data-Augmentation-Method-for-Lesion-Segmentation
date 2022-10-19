@@ -1,7 +1,7 @@
 # SelfMix-A-Self-adaptive-Data-Augmentation-Method-for-Lesion-Segmentation
 SelfMix: A Self-adaptive Data Augmentation Method for Lesion Segmentation
 
-Some of our source code is modified from CarveMix.
+Parts of  source code is modified from CarveMix.
 
 if used, please cite:
 
